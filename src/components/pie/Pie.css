@@ -1,0 +1,7 @@
+.pieClass {
+    display: flex;
+    min-width: 20vh;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}

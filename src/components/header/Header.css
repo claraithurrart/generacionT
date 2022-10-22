@@ -1,0 +1,14 @@
+.headerClass {
+    display: flex;
+    min-width: 20vh;
+    background-color: rgb(64, 177, 214);
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    flex-direction: column;
+}
+
+/* .divStyle{
+    
+} */
